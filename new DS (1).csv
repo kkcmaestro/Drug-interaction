@@ -1,0 +1,188 @@
+Pka, Molecular Weight, Drug Affinity, Solubility, Name, Side Effects, Use, Mechanism of Action, Dosage, Contraindications
+8.5,300.5, High, 50 mg/mL, Aspirin, Headache, Pain relief, Inhibition of prostaglandin synthesis, 500 mg every 4-6 hours, Bleeding disorders
+7,450.2, Moderate, 30 mg/mL, Ibuprofen, Nausea, Inflammation reduction, COX enzyme inhibition, 200-400 mg every 4-6 hours, Peptic ulcers
+9.2,600.8, Low, 20 mg/mL, Diphenhydramine, Drowsiness, Allergy relief, Histamine receptor blockade, 25-50 mg every 4-6 hours, Glaucoma
+6.8,700.3, High, 40 mg/mL, Metformin, Diarrhea, Type 2 diabetes management, AMPK activation, 500-2000 mg daily, Kidney dysfunction
+5.5,550.6, Very High, 25 mg/mL, Warfarin, Bleeding, Anticoagulation, Vitamin K antagonist, Variable, Active bleeding
+10,400.1, Moderate, 60 mg/mL, Paracetamol, Liver damage, Fever and pain relief, COX enzyme inhibition (mainly in the CNS), 500-1000 mg every 4-6 hours, Liver disease
+8.8,320.7, Low, 35 mg/mL, Cetirizine, Dry mouth, Allergy relief, Histamine receptor blockade, 10 mg daily, Pregnancy
+7.2,480.5, High, 15 mg/mL, Omeprazole, Headache, Acid reflux treatment, Proton pump inhibition, 20-40 mg daily, Allergy to proton pump inhibitors
+9.5,600.9, Very Low, 10 mg/mL, Morphine, Respiratory depression, Pain management, Mu-opioid receptor agonism, Variable, Respiratory conditions
+7.8,350.4, Moderate, 45 mg/mL, Simvastatin, Muscle pain, Cholesterol management, HMG-CoA reductase inhibition, 10-40 mg daily, Liver disease
+8.2,420.8, Very High, 22 mg/mL, Gabapentin, Dizziness, Neuropathic pain management, GABA analog, 300-3600 mg daily, Kidney impairment
+6.5,500.2, Low, 18 mg/mL, Albuterol, Tremors, Asthma management, Beta-2 adrenergic receptor agonism, Inhalation, Hypertension
+9,380.6, High, 55 mg/mL, Sertraline, Insomnia, Depression and anxiety treatment, Selective serotonin reuptake inhibition, 50-200 mg daily, MAO inhibitors
+6,600.4, Moderate, 28 mg/mL, Amlodipine, Swelling, Hypertension management, Calcium channel blockade, 5-10 mg daily, Heart failure
+8.6,330.9, Very Low, 12 mg/mL, Ranitidine, Constipation, Peptic ulcer treatment, H2 receptor blockade, 150 mg twice daily, Kidney disease
+7.4,470.3, Low, 32 mg/mL, Levothyroxine, Palpitations, Hypothyroidism treatment, Thyroid hormone replacement, Individualized, Hyperthyroidism
+5.8,510.7, High, 38 mg/mL, Clopidogrel, Bruising, Antiplatelet therapy, ADP receptor inhibition, 75 mg daily, Bleeding disorders
+8.9,390.2, Moderate, 42 mg/mL, Fluoxetine, Weight gain, Obsessive-compulsive disorder treatment, Selective serotonin reuptake inhibition, 20-80 mg daily, Bipolar disorder
+7.6,440.5, Very High, 26 mg/mL, Atorvastatin, Liver dysfunction, Cholesterol management, HMG-CoA reductase inhibition, 10-80 mg daily, Pregnancy
+6.3,580.8, Low, 16 mg/mL, Lisinopril, Cough, Hypertension management, ACE inhibition, 10-40 mg daily, Renal artery stenosis
+9.3,370.1, High, 48 mg/mL, Acetazolamide, Fatigue, Glaucoma and altitude sickness, Carbonic anhydrase inhibition, 250-1000 mg daily, Sulfa allergy
+7.7,410.6, Moderate, 36 mg/mL, Risperidone, Weight gain, Schizophrenia treatment, Dopamine receptor blockade, 2-8 mg daily, Dementia
+8,340.2, High, 44 mg/mL, Metoprolol, Fatigue, Hypertension and angina management, Beta-1 adrenergic receptor blockade, 25-200 mg daily, Bradycardia
+6.6,590.5, Very Low, 14 mg/mL, Lorazepam, Drowsiness, Anxiety and insomnia treatment, GABA receptor agonism, 1-4 mg daily, Respiratory depression
+9.7,460.8, Low, 24 mg/mL, Digoxin, Nausea, Heart failure management, Inhibition of Na+/K+ ATPase, 0.125-0.25 mg daily, Ventricular fibrillation
+7.3,530.9, High, 18 mg/mL, Venlafaxine, Sweating, Depression and anxiety treatment, Serotonin and norepinephrine reuptake inhibition, 75-225 mg daily, MAO inhibitors
+8.4,380.1, Moderate, 30 mg/mL, Atenolol, Cold extremities, Hypertension and angina management, Beta-1 adrenergic receptor blockade, 25-100 mg daily, Heart block
+6.9,470.3, Very High, 22 mg/mL, Clozapine, Constipation, Treatment-resistant schizophrenia, Dopamine receptor modulation, 25-450 mg daily, Agranulocytosis
+9.1,520.6, Low, 40 mg/mL, Hydrochlorothiazide, Dizziness, Hypertension and edema treatment, Thiazide diuretic, 12.5-50 mg daily, Renal impairment
+7.5,560.4, High, 28 mg/mL, Quetiapine, Weight gain, Bipolar disorder treatment, Serotonin and dopamine receptor modulation, 50-300 mg daily, Elderly patients
+8.2,400.9, Very Low, 10 mg/mL, Oxycodone, Constipation, Moderate to severe pain management, Mu-opioid receptor agonism, 5-30 mg every 4-6 hours, Respiratory conditions
+5.9,480.5, Moderate, 32 mg/mL, Losartan, Hyperkalemia, Hypertension and diabetic nephropathy, Angiotensin II receptor blockade, 25-100 mg daily, Pregnancy
+8.8,340.7, Low, 26 mg/mL, Bupropion, Insomnia, Depression and smoking cessation aid, Norepinephrine and dopamine reuptake inhibition, 150-300 mg daily, Seizure disorder
+6.5,590.8, Very High, 14 mg/mL, Tramadol, Nausea, Moderate to severe pain management, Mu-opioid receptor agonism and serotonin-norepinephrine reuptake inhibition, 50-100 mg every 4-6 hours, Seizure disorder
+9.4,430.3, Moderate, 38 mg/mL, Carvedilol, Dizziness, Heart failure and hypertension management, Non-selective beta and alpha adrenergic receptor blockade, 3.125-25 mg twice daily, Bronchial asthma
+7.1,510.2, High, 20 mg/mL, Mirtazapine, Weight gain, Depression and insomnia treatment, Alpha-2 adrenergic receptor blockade, 15-45 mg daily, Monoamine oxidase inhibitors
+8.6,350.9, Low, 42 mg/mL, Clonidine, Dry mouth, Hypertension and ADHD treatment, Alpha-2 adrenergic receptor agonism, 0.1-0.3 mg twice daily, Bradycardia
+6.7,420.4, Very High, 18 mg/mL, Pregabalin, Dizziness, Neuropathic pain management, Calcium channel modulation, 150-600 mg daily, Renal impairment
+9,450.7, Moderate, 34 mg/mL, Lithium, Tremors, Bipolar disorder treatment, Inhibition of inositol monophosphatase, Individualized, Renal dysfunction
+7.9,540.1, High, 25 mg/mL, Rosuvastatin, Muscle pain, Cholesterol management, HMG-CoA reductase inhibition, 5-40 mg daily, Liver disease
+6.3,570.8, Low, 16 mg/mL, Furosemide, Dehydration, Edema and hypertension treatment, Loop diuretic, 20-80 mg daily, Electrolyte imbalance
+8.3,390.7, High, 48 mg/mL, Alprazolam, Drowsiness, Anxiety and panic disorder treatment, GABA receptor agonism, 0.25-2 mg daily, Pregnancy
+6.4,560.2, Low, 22 mg/mL, Trazodone, Dizziness, Depression and insomnia treatment, Serotonin receptor antagonism, 50-300 mg daily, Cardiovascular disease
+8.9,330.5, Very High, 30 mg/mL, Methotrexate, Nausea, Rheumatoid arthritis and cancer treatment, Dihydrofolate reductase inhibition, Variable, Pregnancy
+7.2,480.6, Moderate, 26 mg/mL, Valsartan, Hyperkalemia, Hypertension and heart failure treatment, Angiotensin II receptor blockade, 40-320 mg daily, Renal artery stenosis
+8,410.3, Low, 34 mg/mL, Loratadine, Dry mouth, Allergy relief, Histamine receptor blockade, 10 mg daily, Breastfeeding
+9.6,500.8, Very High, 18 mg/mL, Clozapine, Constipation, Treatment-resistant schizophrenia, Dopamine receptor modulation, 25-450 mg daily, Agranulocytosis
+7.8,370.6, Moderate, 40 mg/mL, Levetiracetam, Dizziness, Epilepsy treatment, Binding to synaptic vesicle protein, 500-3000 mg daily, Renal impairment
+9.2,440.4, Low, 32 mg/mL, Desloratadine, Fatigue, Allergy relief, Histamine receptor blockade, 5 mg daily, Liver disease
+6.5,520.3, High, 24 mg/mL, Enalapril, Cough, Hypertension and heart failure treatment, ACE inhibition, 2.5-20 mg daily, Hyperkalemia
+8.1,380.9, Very High, 20 mg/mL, Oxcarbazepine, Ataxia, Seizure disorder treatment, Sodium channel blockade, 300-2400 mg daily, Hyponatremia
+7.4,460.5, Low, 28 mg/mL, Citalopram, Insomnia, Depression and anxiety treatment, Selective serotonin reuptake inhibition, 20-40 mg daily, QT prolongation
+9,340.7, Moderate, 36 mg/mL, Nifedipine, Flushing, Hypertension and angina management, Calcium channel blockade, 30-90 mg daily, Aortic stenosis
+6.7,570.4, High, 16 mg/mL, Topiramate, Weight loss, Migraine and epilepsy treatment, AMPA/kainate receptor blockade, 25-200 mg twice daily, Glaucoma
+8.4,390.8, Low, 42 mg/mL, Acetylsalicylic acid, GI bleeding, Pain relief and antiplatelet, COX enzyme inhibition, 75-325 mg daily, Peptic ulcer
+7.1,550.6, Very High, 14 mg/mL, Paliperidone, Weight gain, Schizophrenia treatment, Dopamine receptor blockade, 3-12 mg daily, Dementia
+9.4,420.3, Moderate, 30 mg/mL, Atomoxetine, Insomnia, ADHD treatment, Norepinephrine reuptake inhibition, 40-100 mg daily, Glaucoma
+6.8,490.2, Very Low, 18 mg/mL, Methadone, Respiratory depression, Opioid dependence treatment, Mu-opioid receptor agonism, Individualized, QT prolongation
+8.7,330.6, Moderate, 38 mg/mL, Lamotrigine, Rash, Seizure disorder treatment, Sodium channel blockade, 25-200 mg daily, Stevens-Johnson syndrome
+7.9,430.1, High, 22 mg/mL, Spironolactone, Gynecomastia, Edema and hypertension treatment, Aldosterone receptor blockade, 25-200 mg daily, Hyperkalemia
+8.2,400.5, Moderate, 28 mg/mL, Lamivudine, Nausea, HIV and hepatitis B treatment, Nucleoside reverse transcriptase inhibition, 150 mg daily, Severe liver disease
+7.3,520.8, Very High, 16 mg/mL, Aripiprazole, Weight gain, Schizophrenia and bipolar disorder treatment, Dopamine receptor modulation, 5-30 mg daily, Elderly patients
+8.8,350.2, Low, 34 mg/mL, Rosiglitazone, Edema, Type 2 diabetes management, PPAR-gamma receptor activation, 4-8 mg daily, Heart failure
+6.9,470.6, High, 20 mg/mL, Oxazepam, Drowsiness, Anxiety and alcohol withdrawal treatment, GABA receptor agonism, 10-30 mg three times daily, Glaucoma
+9.1,560.4, Moderate, 24 mg/mL, Gemfibrozil, GI upset, Hyperlipidemia treatment, PPAR-alpha receptor activation, 600 mg twice daily, Gallbladder disease
+7.4,420.9, Very High, 18 mg/mL, Escitalopram, Insomnia, Depression and anxiety treatment, Selective serotonin reuptake inhibition, 10-20 mg daily, QT prolongation
+8.5,480.7, Low, 32 mg/mL, Carisoprodol, Dizziness, Muscle relaxation in musculoskeletal conditions, GABA receptor agonism, 250-350 mg three times daily, History of drug abuse
+6.3,540.1, High, 22 mg/mL, Diltiazem, Bradycardia, Hypertension and angina management, Calcium channel blockade, 120-360 mg daily, Heart block
+9,360.8, Very Low, 40 mg/mL, Fexofenadine, Fatigue, Allergy relief, Histamine receptor blockade, 60 mg twice daily, Liver disease
+7.8,460.2, High, 26 mg/mL, Donepezil, Diarrhea, Alzheimer's disease treatment, Acetylcholinesterase inhibition, 5-10 mg daily, Asthma
+8.7,320.6, Low, 38 mg/mL, Lisdexamfetamine, Insomnia, ADHD treatment, Prodrug of dextroamphetamine, 30-70 mg daily, Glaucoma
+6.5,510.4, Very High, 14 mg/mL, Haloperidol, Tremors, Psychotic disorders treatment, Dopamine receptor blockade, 1-10 mg daily, Parkinson's disease
+9.3,370.8, Moderate, 30 mg/mL, Terbinafine, Liver enzyme abnormalities, Fungal infections treatment, Inhibition of ergosterol synthesis, 250 mg daily, History of liver disease
+7,490.5, Very High, 16 mg/mL, Ropinirole, Hallucinations, Parkinson's disease and restless legs syndrome treatment, Dopamine receptor agonism, 0.25-4 mg daily, History of impulse control disorders
+8.6,400.3, Low, 36 mg/mL, Pioglitazone, Edema, Type 2 diabetes management, PPAR-gamma receptor activation, 15-45 mg daily, Heart failure
+7.2,540.6, High, 30 mg/mL, Clindamycin, Diarrhea, Bacterial infections treatment, Inhibition of protein synthesis, Variable, History of colitis
+8.9,430.7, Moderate, 24 mg/mL, Lurasidone, Weight gain, Schizophrenia and bipolar disorder treatment, Dopamine receptor modulation, 40-160 mg daily, Elderly patients
+6.7,580.9, Very High, 18 mg/mL, Olanzapine, Hyperlipidemia, Schizophrenia and bipolar disorder treatment, Dopamine receptor modulation, 5-20 mg daily, Elderly patients
+8.4,380.7, Low, 32 mg/mL, Acyclovir, Nausea, Herpes and chickenpox treatment, DNA polymerase inhibition, 200-800 mg five times daily, History of renal impairment
+7.5,460.4, High, 20 mg/mL, Hydroxyzine, Dry mouth, Anxiety and allergic reactions treatment, Histamine receptor blockade, 25-100 mg three times daily, Glaucoma
+9.5,390.6, Very Low, 40 mg/mL, Isotretinoin, Depression, Severe acne treatment, Inhibition of sebaceous gland function, 0.5-1 mg/kg daily, Pregnancy
+7.1,500.3, Moderate, 28 mg/mL, Mupirocin, Itching, Topical bacterial infections treatment, Inhibition of bacterial protein synthesis, Topical application, None
+8,440.8, High, 26 mg/mL, Imipramine, Constipation, Depression and enuresis treatment, Tricyclic antidepressant, 25-300 mg daily, Recent myocardial infarction
+6.6,530.5, Very High, 16 mg/mL, Tiotropium, Dry mouth, COPD and asthma management, Muscarinic receptor blockade, Inhalation, Allergy to anticholinergic drugs
+9.2,380.5, Low, 34 mg/mL, Famciclovir, Headache, Herpes and shingles treatment, DNA polymerase inhibition, 250-500 mg three times daily, History of renal impairment
+7.6,450.1, High, 22 mg/mL, Ethosuximide, Drowsiness, Absence seizures treatment, T-type calcium channel blockade, 500-1500 mg daily, Pregnancy
+8.1,360.2, Very Low, 40 mg/mL, Salmeterol, Tremors, COPD and asthma management, Beta-2 adrenergic receptor agonism, Inhalation, Allergy to beta-agonists
+6.8,510.6, High, 30 mg/mL, Ziprasidone, QT prolongation, Schizophrenia and bipolar disorder treatment, Dopamine receptor modulation, 40-160 mg daily, History of cardiac arrhythmias
+9.4,400.9, Low, 36 mg/mL, Nitrofurantoin, Diarrhea, Urinary tract infections treatment, Bacterial DNA and RNA synthesis inhibition, 50-100 mg four times daily, Renal impairment
+7.9,470.1, Very High, 18 mg/mL, Tamsulosin, Dizziness, Benign prostatic hyperplasia treatment, Alpha-1 adrenergic receptor blockade, 0.4 mg daily, History of hypotension
+8.2,340.7, Moderate, 30 mg/mL, Modafinil, Insomnia, Narcolepsy and sleep disorders, Enhancement of wakefulness, 100-200 mg daily, History of heart conditions
+7.7,510.5, Very High, 16 mg/mL, Ezetimibe, Diarrhea, Hypercholesterolemia treatment, Inhibition of cholesterol absorption, 10 mg daily, Severe liver disease
+8.8,420.6, Low, 32 mg/mL, Methylphenidate, Insomnia, ADHD and narcolepsy treatment, Norepinephrine and dopamine reuptake inhibition, 5-60 mg daily, Glaucoma
+6.9,480.8, Very High, 18 mg/mL, Levodopa/Carbidopa, Dyskinesias, Parkinson's disease treatment, Dopamine precursor and decarboxylase inhibitor, Variable, Glaucoma
+9,360.5, Moderate, 28 mg/mL, Metronidazole, Metallic taste, Bacterial and protozoal infections treatment, DNA and protein synthesis inhibition, Variable, Pregnancy
+7.4,530.1, High, 24 mg/mL, Nortriptyline, Constipation, Depression and chronic pain treatment, Tricyclic antidepressant, 25-150 mg daily, Recent myocardial infarction
+8.5,440.2, Low, 38 mg/mL, Tolterodine, Dry mouth, Overactive bladder treatment, Muscarinic receptor blockade, 2-4 mg twice daily, Gastric retention
+6.7,500.6, Very High, 16 mg/mL, Lorazepam, Drowsiness, Anxiety and insomnia treatment, GABA receptor agonism, 1-4 mg daily, Respiratory depression
+9.1,380.4, Low, 40 mg/mL, Rivastigmine, Nausea, Alzheimer's disease and dementia treatment, Acetylcholinesterase inhibition, 1.5-6 mg twice daily, Asthma
+7.8,470.2, High, 22 mg/mL, Meloxicam, Heartburn, Inflammation and pain relief, COX enzyme inhibition, 7.5-15 mg daily, History of peptic ulcers
+8.6,550.8, Very High, 20 mg/mL, Paliperidone, Weight gain, Schizophrenia and bipolar disorder treatment, Dopamine receptor blockade, 3-12 mg daily, Dementia
+7.2,420.5, Moderate, 34 mg/mL, Cefuroxime, Diarrhea, Bacterial infections treatment, Inhibition of bacterial cell wall synthesis, Variable, History of penicillin allergy
+9.3,390.6, Low, 36 mg/mL, Finasteride, Erectile dysfunction, Benign prostatic hyperplasia treatment, 5-alpha reductase inhibition, 1 mg daily, Pregnancy
+7.1,520.4, High, 26 mg/mL, Celecoxib, GI bleeding, Inflammation and pain relief, COX-2 enzyme inhibition, 100-200 mg twice daily, History of cardiovascular events
+8,430.7, Very Low, 40 mg/mL, Baclofen, Drowsiness, Muscle spasticity treatment, GABA receptor agonism, 5-80 mg daily, Renal dysfunction
+6.5,570.1, High, 30 mg/mL, Acetaminophen/Codeine, Nausea, Moderate to severe pain management, Mu-opioid receptor agonism, Variable, Respiratory conditions
+9.5,400.3, Low, 36 mg/mL, Vardenafil, Vision changes, Erectile dysfunction treatment, Phosphodiesterase-5 inhibition, 5-20 mg as needed, Nitrate use
+7.6,450.8, High, 24 mg/mL, Diclofenac, GI bleeding, Inflammation and pain relief, COX enzyme inhibition, 50-150 mg daily, History of cardiovascular events
+8.4,360.9, Very Low, 42 mg/mL, Hydrocortisone, Skin atrophy, Topical inflammation and allergy treatment, Glucocorticoid receptor modulation, Topical application, None
+6.3,590.6, Moderate, 28 mg/mL, Prazosin, Dizziness, Hypertension and PTSD treatment, Alpha-1 adrenergic receptor blockade, 1-10 mg twice daily, History of syncope
+8.1,380.4, Moderate, 30 mg/mL, Desvenlafaxine, Insomnia, Depression and anxiety treatment, Serotonin and norepinephrine reuptake inhibition, 50-100 mg daily, MAO inhibitors
+7.9,490.6, High, 22 mg/mL, Sitagliptin, Hypoglycemia, Type 2 diabetes management, Dipeptidyl peptidase-4 inhibition, 50-100 mg daily, History of pancreatitis
+8.7,320.9, Low, 34 mg/mL, Dicloxacillin, GI upset, Bacterial infections treatment, Inhibition of bacterial cell wall synthesis, 500 mg every 6 hours, History of penicillin allergy
+6.6,550.5, Very High, 16 mg/mL, Atomoxetine, Insomnia, ADHD treatment, Norepinephrine reuptake inhibition, 40-100 mg daily, Glaucoma
+9,440.6, Low, 32 mg/mL, Nitroglycerin, Headache, Angina management, Vasodilation via nitric oxide release, Sublingual or spray, Hypotension
+7.5,490.3, High, 20 mg/mL, Esomeprazole, Abdominal pain, GERD treatment, Proton pump inhibition, 20-40 mg daily, Allergy to proton pump inhibitors
+8.3,400.7, Very Low, 40 mg/mL, Leuprolide, Hot flashes, Prostate cancer and endometriosis treatment, Gonadotropin-releasing hormone agonism, Injection, Pregnancy
+7.2,470.8, High, 26 mg/mL, Fentanyl, Respiratory depression, Severe pain management, Mu-opioid receptor agonism, Variable (buccal or injection), Respiratory conditions
+8.8,350.6, Low, 36 mg/mL, Promethazine, Drowsiness, Nausea and vomiting relief, Histamine receptor blockade, 12.5-25 mg every 4-6 hours, Asthma
+6.9,510.7, Very High, 18 mg/mL, Moxifloxacin, Tendon rupture, Bacterial infections treatment, DNA gyrase and topoisomerase IV inhibition, 400 mg daily, History of myasthenia gravis
+9.2,380.5, Low, 42 mg/mL, Adalimumab, Injection site reactions, Rheumatoid arthritis and inflammatory diseases treatment, Tumor necrosis factor-alpha inhibition, Injection, Active infections
+7.8,430.4, High, 28 mg/mL, Lorazepam, Drowsiness, Anxiety and insomnia treatment, GABA receptor agonism, 0.5-6 mg daily, Respiratory depression
+8.5,360.6, Moderate, 30 mg/mL, Rabeprazole, Headache, GERD treatment, Proton pump inhibition, 20 mg daily, Allergy to proton pump inhibitors
+7.1,510.8, Very High, 16 mg/mL, Mefenamic Acid, GI bleeding, Pain and inflammation relief, COX enzyme inhibition, 250-500 mg every 6 hours, Peptic ulcers
+8.9,430.5, Low, 38 mg/mL, Cefdinir, Diarrhea, Bacterial infections treatment, Inhibition of bacterial cell wall synthesis, 300 mg every 12 hours, History of penicillin allergy
+6.7,540.8, High, 22 mg/mL, Enoxaparin, Bleeding, Deep vein thrombosis and pulmonary embolism prevention, Low molecular weight heparin, Subcutaneous injection, Active bleeding
+9.4,400.8, Moderate, 36 mg/mL, Olanzapine, Weight gain, Schizophrenia and bipolar disorder treatment, Dopamine receptor modulation, 5-20 mg daily, Elderly patients
+7.6,470.5, Very High, 18 mg/mL, Desloratadine, Dry mouth, Allergy relief, Histamine receptor blockade, 5 mg daily, Liver disease
+8.2,400.6, Low, 34 mg/mL, Nystatin, Nausea, Fungal infections treatment, Binding to fungal cell membrane sterols, Topical or oral, None
+6.4,540.9, High, 24 mg/mL, Erythromycin, GI upset, Bacterial infections treatment, Inhibition of protein synthesis, 250-500 mg every 6 hours, History of QT prolongation
+8.1,390.5, Moderate, 30 mg/mL, Dapagliflozin, Genital infections, Type 2 diabetes management, Sodium-glucose co-transporter 2 inhibition, 5-10 mg daily, Severe renal impairment
+7.9,510.6, High, 22 mg/mL, Oseltamivir, Nausea, Influenza treatment and prophylaxis, Neuraminidase inhibition, 75 mg twice daily, None
+8.7,330.8, Low, 34 mg/mL, Tolbutamide, Hypoglycemia, Type 2 diabetes management, Sulfonylurea - Insulin release stimulation, 500-2000 mg daily, Severe liver disease
+6.6,540.3, Very High, 16 mg/mL, Ritonavir, Diarrhea, HIV treatment, Protease inhibition, 100-600 mg daily, History of QT prolongation
+9,360.7, Moderate, 28 mg/mL, Sulfamethoxazole/Trimethoprim, Photosensitivity, Bacterial infections treatment, Inhibition of folic acid synthesis, Variable, History of folate deficiency
+7.4,480.1, High, 20 mg/mL, Memantine, Dizziness, Alzheimer's disease treatment, NMDA receptor antagonism, 5-20 mg twice daily, Renal impairment
+8.5,450.6, Low, 32 mg/mL, Acarbose, Flatulence, Type 2 diabetes management, Alpha-glucosidase inhibition, 25-100 mg three times daily, Inflammatory bowel disease
+6.7,500.2, Very High, 16 mg/mL, Amlodipine, Swelling, Hypertension management, Calcium channel blockade, 5-10 mg daily, Heart failure
+9.1,380.6, Low, 42 mg/mL, Eplerenone, Hyperkalemia, Heart failure management, Mineralocorticoid receptor blockade, 25-100 mg daily, Severe renal impairment
+7.8,430.5, High, 26 mg/mL, Fluticasone/Salmeterol, Thrush, Asthma and COPD management, Corticosteroid and beta-2 agonist combination, Inhalation, None
+8.6,550.4, Very High, 20 mg/mL, Risperidone, Weight gain, Schizophrenia and bipolar disorder treatment, Dopamine receptor blockade, 1-6 mg daily, Dementia
+7.2,420.6, Moderate, 34 mg/mL, Metoclopramide, Extrapyramidal symptoms, Nausea and vomiting relief, Dopamine receptor antagonism, 10-20 mg four times daily, Gastrointestinal bleeding
+9.3,390.7, Low, 36 mg/mL, Lopinavir/Ritonavir, Diarrhea, HIV treatment, Protease inhibition, Variable, History of QT prolongation
+7.1,520.5, High, 28 mg/mL, Naproxen, GI bleeding, Inflammation and pain relief, COX enzyme inhibition, 250-500 mg twice daily, Peptic ulcers
+8.9,440.5, Very Low, 38 mg/mL, Hydroxychloroquine, Retinopathy, Malaria and autoimmune disease treatment, Inhibition of lysosomal activity, Variable, Retinal disease
+6.8,580.2, High, 30 mg/mL, Latanoprost, Iris pigmentation changes, Glaucoma treatment, Prostaglandin F2-alpha analog, Ophthalmic solution, None
+9.5,400.7, Low, 36 mg/mL, Phenobarbital, Sedation, Seizure disorder treatment, GABA receptor agonism, 30-200 mg daily, Porphyria
+7.6,470.4, Very High, 18 mg/mL, Sertraline, Insomnia, Depression and anxiety treatment, Selective serotonin reuptake inhibition, 50-200 mg daily, MAO inhibitors
+8.2,400.9, Low, 34 mg/mL, Methyldopa, Drowsiness, Hypertension management, Central alpha-2 adrenergic agonism, 250-1000 mg daily, History of liver disease
+8.1,360.5, Moderate, 30 mg/mL, Vortioxetine, Nausea, Major depressive disorder treatment, Serotonin receptor modulation, 10-20 mg daily, Monoamine oxidase inhibitors
+7.9,510.6, High, 22 mg/mL, Tenofovir/Emtricitabine, Nausea, HIV and pre-exposure prophylaxis, Nucleotide reverse transcriptase inhibition, 300/200 mg daily, Renal impairment
+8.7,340.8, Low, 34 mg/mL, Amiodarone, Pulmonary fibrosis, Ventricular arrhythmia treatment, Multiple ion channel blockade, 100-400 mg daily, Iodine allergy
+6.6,550.4, Very High, 16 mg/mL, Oxybutynin, Dry mouth, Overactive bladder treatment, Muscarinic receptor blockade, 5-30 mg daily, Gastric retention
+9,360.7, Moderate, 28 mg/mL, Vancomycin, Red man syndrome, Bacterial infections treatment, Inhibition of bacterial cell wall synthesis, Variable, Hearing loss
+7.4,480.1, High, 20 mg/mL, Rivaroxaban, Bleeding, Thromboembolism prevention, Factor Xa inhibition, 10-20 mg daily, Active bleeding
+8.5,450.6, Low, 32 mg/mL, Levothyroxine, Tachycardia, Hypothyroidism treatment, Thyroid hormone replacement, Individualized, Recent myocardial infarction
+6.7,500.2, Very High, 16 mg/mL, Tadalafil, Headache, Erectile dysfunction treatment, Phosphodiesterase-5 inhibition, 5-20 mg as needed, Nitrate use
+9.1,380.6, Low, 42 mg/mL, Naloxone, Acute withdrawal symptoms, Opioid overdose reversal, Mu-opioid receptor antagonism, Injection or nasal spray, None
+7.8,430.5, High, 26 mg/mL, Methylprednisolone, Immunocompromised state, Inflammation and allergy treatment, Glucocorticoid receptor modulation, Variable, Active infections
+8.6,550.4, Very High, 20 mg/mL, Lisdexamfetamine, Insomnia, ADHD treatment, Prodrug of dextroamphetamine, 30-70 mg daily, Glaucoma
+7.2,420.6, Moderate, 34 mg/mL, Pregabalin, Weight gain, Neuropathic pain management, Calcium channel modulation, 150-600 mg daily, Renal impairment
+9.3,390.7, Low, 36 mg/mL, Bosentan, Hepatotoxicity, Pulmonary arterial hypertension treatment, Endothelin receptor antagonism, 62.5-125 mg twice daily, Pregnancy
+7.1,520.5, High, 28 mg/mL, Metolazone, Electrolyte imbalance, Hypertension and edema treatment, Thiazide diuretic, 2.5-10 mg daily, Renal impairment
+8.9,440.5, Very Low, 38 mg/mL, Isosorbide Dinitrate, Headache, Angina management, Vasodilation via nitric oxide release, 10-40 mg three times daily, Hypotension
+6.8,580.2, High, 30 mg/mL, Raltegravir, Hypercholesterolemia, HIV treatment, Integration inhibitor, 400 mg twice daily, None
+9.5,400.7, Low, 36 mg/mL, Metformin, Diarrhea, Type 2 diabetes management, AMP-activated protein kinase activation, 500-2000 mg daily, Renal impairment
+7.6,470.4, Very High, 18 mg/mL, Montelukast, Mood changes, Asthma and allergic rhinitis treatment, Leukotriene receptor antagonism, 10 mg daily, None
+8.2,400.9, Low, 34 mg/mL, Propofol, Respiratory depression, Induction and maintenance of anesthesia, GABA receptor modulation, Variable (intravenous), Egg allergy
+8.1,360.5, Moderate, 30 mg/mL, Ezogabine, Retinal abnormalities, Epilepsy treatment, Potassium channel modulation, 300-1200 mg daily, Retinal disease
+7.9,510.6, High, 22 mg/mL, Elvitegravir, Nausea, HIV treatment, Integration inhibitor, 150 mg daily, None
+8.7,340.8, Low, 34 mg/mL, Colchicine, GI upset, Gout treatment, Microtubule polymerization inhibition, 0.6 mg two to four times daily, Hepatic or renal impairment
+6.6,550.4, Very High, 16 mg/mL, Gabapentin, Dizziness, Neuropathic pain and seizures treatment, GABA analogue, 300-3600 mg daily, None
+9,360.7, Moderate, 28 mg/mL, Isoniazid, Hepatotoxicity, Tuberculosis treatment, Mycolic acid synthesis inhibition, 300 mg daily, Active liver disease
+7.4,480.1, High, 20 mg/mL, Dalteparin, Bleeding, Deep vein thrombosis and pulmonary embolism prevention, Low molecular weight heparin, Subcutaneous injection, Active bleeding
+8.5,450.6, Low, 32 mg/mL, Lithium, Tremors, Bipolar disorder treatment, Unknown, 300-1800 mg daily, Renal impairment
+6.7,500.2, Very High, 16 mg/mL, Cetirizine, Drowsiness, Allergy relief, Histamine receptor blockade, 5-10 mg daily, None
+9.1,380.6, Low, 42 mg/mL, Naltrexone, Nausea, Opioid dependence and alcohol addiction treatment, Opioid receptor antagonism, 50 mg daily, Opioid use within 7-10 days
+7.8,430.5, High, 26 mg/mL, Acetazolamide, Metabolic acidosis, Glaucoma and altitude sickness treatment, Carbonic anhydrase inhibition, 250-1000 mg daily, None
+8.6,550.4, Very High, 20 mg/mL, Bupropion, Insomnia, Depression and smoking cessation aid, Norepinephrine and dopamine reuptake inhibition, 150-300 mg daily, Seizure disorder
+7.2,420.6, Moderate, 34 mg/mL, Ranitidine, Diarrhea, GERD and peptic ulcer treatment, Histamine receptor blockade, 150 mg twice daily, None
+9.3,390.7, Low, 36 mg/mL, Dabigatran, Bleeding, Thromboembolism prevention, Direct thrombin inhibition, 150-220 mg twice daily, Mechanical heart valve
+7.1,520.5, High, 28 mg/mL, Leflunomide, Diarrhea, Rheumatoid arthritis treatment, Pyrimidine synthesis inhibition, Loading dose: 100 mg daily for 3 days, Pregnancy
+8.9,440.5, Very Low, 38 mg/mL, Nitroprusside, Cyanide toxicity, Hypertensive emergencies, Nitric oxide release, Variable (intravenous), Renal impairment
+6.8,580.2, High, 30 mg/mL, Fosphenytoin, Phlebitis, Seizure disorder treatment, Prodrug of phenytoin, Variable (intravenous), Sinus bradycardia
+9.5,400.7, Low, 36 mg/mL, Pioglitazone, Edema, Type 2 diabetes management, PPAR-gamma receptor activation, 15-45 mg daily, Heart failure
+7.6,470.4, Very High, 18 mg/mL, Ramipril, Persistent cough, Hypertension and heart failure treatment, ACE inhibition, 2.5-20 mg daily, Pregnancy
+8.2,400.9, Low, 34 mg/mL, Tiotropium/Olodaterol, Dry mouth, COPD management, Muscarinic receptor blockade and beta-2 agonism, Inhalation, None
